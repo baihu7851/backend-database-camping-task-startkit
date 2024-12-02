@@ -426,7 +426,7 @@ VALUES
     '2024-11-25 14:00:00',
     '2024-11-25 16:00:00',
     10,
-    'https://test-meeting.test.iomeeting_url'
+    'https://test-meeting.test.io'
   );
 
 -- ████████  █████   █    █████ 
